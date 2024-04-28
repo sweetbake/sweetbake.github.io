@@ -9,7 +9,7 @@ body {
 
 @font-face {
   font-family: 'Dancing'; /* Название, которое вы будете использовать для обращения к шрифту */
-  src: url('./assets/font/DancingScript-VariableFont_wght.ttf') format('truetype'); /* Путь к файлу шрифта */
+  src: url('../font/DancingScript-VariableFont_wght.ttf') format('truetype'); /* Путь к файлу шрифта */
 }
 
 
